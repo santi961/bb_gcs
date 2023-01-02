@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pavro-cloud",
+  "private_key_id": "5151bb2e4c54bb5fca50410d3853c69d06fc3e35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCkHSK6EnFy7jKF\ndtAnnRY6hhN41oHUfDhJF4vDZHF7BAK5OFENtUo1Msqk452Ptf6u6f3ymKNVLpWW\nf6igIZSUEKtLkem3vw+5x4bSbqZcCt84bR6sFokOi+dAZtBOi/kC50oXBVCvOLzQ\n4JB2gnmCUFqFpb0RBBC9QXbVvM4h1OrLyAFDyRTTtFHnHLvsWQUnQJSkdhOYhtrU\nwPRBOPyMs6mhFtyQHdat/iaIwE7X+j2WaI0hq1spxHav79uS4zaQLJ90sx9VW4ju\ng+MrkobP8SvnG9yeT3cqFcNzesVmjVP2oppFLXvuUvbO3u1Vywq0PjkflfyiJPLf\nVbDu5FdFAgMBAAECggEAFFAd5QGU5LiabL4WyBxvrKk9PkLwuWvxrIxbSoFDcYo+\nyw2vLJ7wkzKY9f1NWoUYg65nNhCSAOBd+A2Pgdh+MzB3/0fNcaaWq/RIGgJDmZdn\n5yxMdFjquG/1HNnM9Tfqh6M4nq5T/QgtCL6O6vg90XUgKzQnOXSzHLW+X3i52+Jz\njozdrXIb6O8DByDc6MOfxMdFL6nK/njhbb7Iep8PyqGSmdFDB3gDKs5yVfiCSSst\nAzONYgXZ2vhWW2CCUXFyL/FNXBB1HrHoFc0B5neRs3AnTZw0ja6YbcnNE6NQX/p5\nONCiPb2JsAA/zFKo+fhrL/uEJxFEIwI4cAQvpX6tAQKBgQDemP/H+G5kfeH27SoF\nXU/U+vdcr1YOz/ZlOS5C/7irOgFknR2f4UNzA+YyTKlGcRjQxwSSdTEq+yLxYP5H\n9J7MDZ+EZ+vjXXu4DHMognXLXqPKUNV/6wd2L9KBBOvfaIR3ju1l0DBPUHHlQ62g\n9X6TW5BUr3wrE7GxtmRO/72oRQKBgQC8vYC6LA/r/RRu/whWfRfs3kdHYFMFbhCB\nhG7331venXzrXggvZbCTuA4ORg1B1X0dzj6WOfkplYP+pYXFtEFyBER+iVcTOHeX\nQ+leV80QThAsKCwtumKg3CXl4PCe9Y7QvCIVDTzAosXY4oamBhMKEWuPAS5NSo4g\n/FyXfgRjAQKBgQDVrMyraoCdmnEUlSinKaF+csKMiAr2AQ8mr7MGwW7FftLjgCZ1\n2MjkWTPZyNkdM2d80e5DoJdoCNbMGi09aUYd3l3nvdIj2RLv45OPqVvlsp1Lkji/\nqB7rhpBtJQo+1JeEJQEhoK0fFbufNk4vmji8v0JW6HUq7KbATrMPWlL2eQKBgQC2\nX25pdnYUE8GQ10HZQJrDuKyrXXobPxUX8T3AqcT9wLOaQowqMFqFAk4ioLHisUVq\nbYWwZ2hJND4M6yftt5WddF4y3saSvfdg5LA1ByYQ4T1jTZYSwYzX3qGIFOis0J4l\nOAS+zsGrah0+yvRMrIXtLpP95Kg26xmW6gMWJyBaAQKBgQCB6uUcv3cD4TS0T7ma\nM+9iNj9HA2RMGe/5v2+CzmHqBBZk6SFQ4+7Bf5/c40nPZpZL/bD6Mx9+4eD2fm6x\nLhlenRNoCNm1W6MQX4OKqRqlVfU4DO7B5ztOFSkwcUh4QU+74mYeOTP3QyG55oLQ\nfeoAzIK/VtnOPnWxgay6UJi/pg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bb-ai-uploads@pavro-cloud.iam.gserviceaccount.com",
+  "client_id": "112990581927128180935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bb-ai-uploads%40pavro-cloud.iam.gserviceaccount.com"
+}
